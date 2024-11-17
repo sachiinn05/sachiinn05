@@ -37,8 +37,7 @@ Here’s what I’ve been working on:
 | **[Stock Market Analysis](#)**   | Analyzes stock performance with interactive charts and real-time trends.                             | HTML, CSS, JavaScript                 |
 | **[Job Portal Web App](#)**      | A seamless platform for job postings and applications with email notifications.                      | EJS, CSS, MVC, Express.js             |
 | **[Seat Booking Web App](#)**    | Real-time seat reservation system for events, movies, and more.                                      | HTML, CSS, JavaScript                 |
-| **[Food Digest App](#)**         | Tracks food intake, shows nutritional data, and maps restaurant locations.                           | HTML, CSS, JavaScript                 |
-| **[Code Generator](#)**          | Generates code snippets in multiple languages based on user input. Fully client-side functionality.  | HTML, CSS, JavaScript                 |
+
 
 ---
 
