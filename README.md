@@ -47,9 +47,7 @@ Here’s what I’ve been working on:
 ---
 
 ### ✨ GitHub Widgets
-<p align="center"> 
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachiinn05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>  -->
-</p> 
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sachiinn05&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/> 
 </p>
@@ -76,11 +74,7 @@ Here’s what I’ve been working on:
 <p align="center"> 
   <img src="https://github-contributor-stats.vercel.app/api?username=sachiinn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" width="100%" />
 </p>
-<p align="center"> 
-  <a href="https://github.com/sachiinn05">
-<!--     <img src="https://activity-graph.herokuapp.com/graph?username=sachiinn05&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-  </a> -->
-</p>
+
 
 
 ---
