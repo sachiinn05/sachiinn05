@@ -48,7 +48,7 @@ Here’s what I’ve been working on:
 
 ### ✨ GitHub Widgets
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachiinn05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/> 
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachiinn05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>  -->
 </p> 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sachiinn05&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/> 
