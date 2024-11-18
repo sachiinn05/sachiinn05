@@ -78,8 +78,8 @@ Here’s what I’ve been working on:
 </p>
 <p align="center"> 
   <a href="https://github.com/sachiinn05">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sachiinn05&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-  </a>
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=sachiinn05&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  </a> -->
 </p>
 
 
