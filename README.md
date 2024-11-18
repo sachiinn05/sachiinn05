@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center">
-<!--   <a href="#">
-    <img src="https://media.giphy.com/media/26FPO9UjvrC9OecvO/giphy.gif" height="50" alt="Wave"> 🌟 Welcome to My GitHub Universe 🌟 
-  </a> -->
+  <a href="#">
+    🌟 Welcome to My GitHub Universe 🌟 
+</a>
+
 </h1>
 
 <h3 align="center">Exploring ideas, one project at a time 🚀</h3>
