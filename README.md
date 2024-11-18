@@ -2,7 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Sachin+Singh;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🌟 Welcome to My GitHub Universe 🌟</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://media.giphy.com/media/26FPO9UjvrC9OecvO/giphy.gif" height="50" alt="Wave"> 🌟 Welcome to My GitHub Universe 🌟 
+  </a>
+</h1>
+
 <h3 align="center">Exploring ideas, one project at a time 🚀</h3>
 
 <p align="center">
@@ -33,12 +38,26 @@ Here’s what I’ve been working on:
 
 ---
 
+### 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,bootstrap,git,github,postman,vscode" alt="Tech Stack Icons" />
+</div>
+
+---
+
 ### ✨ GitHub Widgets
 <p align="center"> 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachiinn05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/> 
 </p> 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sachiinn05&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/> 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -48,6 +67,18 @@ Here’s what I’ve been working on:
 - 🧗‍♂️ I enjoy solving challenging coding problems!
 - 🎮 When not coding, I’m gaming or solving puzzles.
 - ✈️ My dream project? Building a fully automated smart home system.
+- 🛡️ **Motto:** *"Make it work, make it right, make it fast."*
+
+---
+
+### 📊 Contributions and Badges
+<p align="center"> 
+  <img src="https://github-contributor-stats.vercel.app/api?username=sachiinn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Coder-HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank Badge" />
+  <img src="https://img.shields.io/badge/DSA%20Enthusiast-CodeChef-orange?style=for-the-badge&logo=codechef" alt="CodeChef Badge" />
+</p>
 
 ---
 
