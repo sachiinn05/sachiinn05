@@ -1,6 +1,6 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Sachin+Singh;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Sachin+Singh;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
+</p> -->
 
 <h1 align="center">
   <a href="#">
