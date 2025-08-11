@@ -41,8 +41,21 @@ Here’s what I’ve been working on:
 
 ### 🛠️ My Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nodejs,express,nextjs,mongodb,react,bootstrap,git,github,postman,vscode,python,jupyter" alt="Tech Stack Icons" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,python" /><br>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,bootstrap" /><br>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter" />
+
 </div>
+
 
 
 
