@@ -41,8 +41,9 @@ Here’s what I’ve been working on:
 
 ### 🛠️ My Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb,react,bootstrap,git,github,postman,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nodejs,express,nextjs,mongodb,react,bootstrap,git,github,postman,vscode,python,jupyter" alt="Tech Stack Icons" />
 </div>
+
 
 
 ---
