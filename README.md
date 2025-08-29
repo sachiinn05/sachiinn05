@@ -53,7 +53,6 @@ Here’s what I’ve been working on:
 ### ✨ GitHub Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 <p align="center">
