@@ -52,9 +52,6 @@ Here’s what I’ve been working on:
 
 ### ✨ GitHub Widgets
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=sachiinn05&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/> 
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
@@ -74,10 +71,7 @@ Here’s what I’ve been working on:
 
 ---
 
-### 📊 Contributions and Badges
-<p align="center"> 
-  <img src="https://github-contributor-stats.vercel.app/api?username=sachiinn05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" width="100%" />
-</p>
+
 
 
 
