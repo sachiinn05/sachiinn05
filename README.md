@@ -28,16 +28,7 @@ Get inspired with a fresh quote:
 
 ---
 
-### 🏆 Highlights: My Projects
-Here’s what I’ve been working on:
 
-| 🌟 **Project Name**               | 💡 **Description**                                                                                   | 🚀 **Tech Stack**                     |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **[Stock Market Analysis](#)**   | Analyzes stock performance with interactive charts and real-time trends.                             | HTML, CSS, JavaScript                 |
-| **[Job Portal Web App](#)**      | A seamless platform for job postings and applications with email notifications.                      | EJS, CSS, MVC, Express.js             |
-| **[Seat Booking Web App](#)**    | Real-time seat reservation system for events, movies, and more.                                      | HTML, CSS, JavaScript                 |
-| **[Inventor App Using MVC](#)**  | Modular app for inventor data management                                                             |  EJS, CSS, MVC, Express.js            |
----
 
 ### 🛠️ My Tech Stack
 <div align="center">
@@ -65,7 +56,6 @@ Here’s what I’ve been working on:
 - 🌟 **Favorite Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js).
 - 🧗‍♂️ I enjoy solving challenging coding problems!
 - 🎮 When not coding, I’m gaming or solving puzzles.
-- ✈️ My dream project? Building a fully automated smart home system.
 - 🛡️ **Motto:** *"Make it work, make it right, make it fast."*
 
 ---
