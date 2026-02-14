@@ -1,21 +1,21 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=250&section=header&text=Sachin%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=260&section=header&text=Sachin%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Specialist;Competitive+Programmer;Backend+Engineer;System+Design+Learner;Building+Scalable+Apps+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;Competitive+Programmer;Backend+Focused;System+Design+Learner;Building+Scalable+Products+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Hire-brightgreen?style=for-the-badge&logo=Handshake"/>
-  <img src="https://img.shields.io/badge/Currently%20Coding-MERN%20Stack-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/ACTIVELY%20SEEKING-FULL%20TIME%20SOFTWARE%20ROLES-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20%7C%20Full%20Stack%20Roles-Available-00f7ff?style=for-the-badge"/>
 </p>
 
 ---
 
-# <p align="center">⚡ WELCOME TO MY DEV UNIVERSE ⚡</p>
+# <p align="center">⚡ WELCOME TO MY ENGINEERING WORLD ⚡</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachiinn05&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
@@ -29,7 +29,7 @@
 
 ```diff
 + Sachin Singh
-+ Full Stack MERN Developer
++ MERN Stack Developer
 + Competitive Programmer (LeetCode)
 + Backend & System Design Focused
 + Passionate about building scalable production apps
@@ -60,13 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</p>
-
 ---
 
-## 🧊 3D CONTRIBUTION GRAPH
+## 🧊 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinn05&theme=tokyo-night"/>
@@ -74,7 +70,7 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE (ANIMATED)
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -90,7 +86,7 @@
 
 ---
 
-## 📈 DEV ACTIVITY & SUMMARY
+## 📈 DEV SUMMARY
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachiinn05&theme=tokyonight"/>
@@ -101,19 +97,88 @@
 ## 🚀 FEATURED PROJECTS
 
 ### 🔥 ByteFlame — Full Stack Dating App
-- MERN Stack, Socket.io, AWS  
-- JWT Auth, Real-time Chat  
-- Production deployment  
+- MERN Stack, Socket.io, AWS
+- JWT Authentication + Real-time chat
+- Production deployment
 
 ### 💬 ChatterUp — Real-time Chat App
-- Node.js, Express, MongoDB  
-- Multi-user messaging  
-- Persistent chat storage  
+- Node.js, Express, MongoDB
+- Multi-user messaging system
 
 ### 🧑‍💼 Job Portal Platform
-- Role-based authentication  
-- Email workflow automation  
-- Recruiter dashboard  
+- Role-based access
+- Recruiter dashboard
+- Email workflow automation
+
+---
+
+## 🧠 SYSTEM DESIGN PLAYGROUND
+
+- Scalable MERN architecture
+- Load balancing basics
+- JWT authentication flows
+- WebSocket real-time systems
+- Caching & performance optimization
+
+---
+
+## 🧩 DSA PROGRESS
+
+LeetCode Problems Solved: 380+  
+Primary Language: C++  
+Focus Areas: Graphs • DP • Trees
+
+---
+
+## 🎯 INTERVIEW READINESS
+
+DSA            █████████░ 90%  
+Backend        ████████░░ 80%  
+System Design  ███████░░░ 70%  
+Frontend       ███████░░░ 70%  
+
+---
+
+## 📅 DEVELOPER JOURNEY
+
+2022 → Started C++ & DSA  
+2023 → Web Development  
+2024 → MERN Stack + Backend  
+2025 → System Design + Scaling  
+2026 → Cracking Product Companies 🚀  
+
+---
+
+## 📄 RESUME
+
+<p align="center">
+  <a href="PASTE_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 💼 HIRE ME
+
+Looking for:
+- Full Stack Developer roles
+- Backend Engineer roles
+- Product-based companies
+
+Contact:
+📧 singhsachin0517@gmail.com  
+🔗 linkedin.com/in/sachin-singh-491252252  
+
+---
+
+## 💡 ENGINEERING PHILOSOPHY
+
+- Build for scale  
+- Write clean code  
+- Optimize performance  
+- Solve real problems  
+- Ship fast → iterate faster  
 
 ---
 
@@ -121,14 +186,6 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/sachiinn05/count.svg"/>
-</p>
-
----
-
-## 💡 DEV QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
