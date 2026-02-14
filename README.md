@@ -1,14 +1,16 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HERO SECTION ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=240&section=header&text=Sachin%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=250&section=header&text=Sachin%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Specialist;DSA+Problem+Solver;Backend+Engineer;System+Design+Learner;Building+Scalable+Apps+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Specialist;Competitive+Programmer;Backend+Engineer;System+Design+Learner;Building+Scalable+Apps+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for-Hire-brightgreen?style=for-the-badge&logo=Handshake"/>
+  <img src="https://img.shields.io/badge/Open%20to-Hire-brightgreen?style=for-the-badge&logo=Handshake"/>
+  <img src="https://img.shields.io/badge/Currently%20Coding-MERN%20Stack-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
@@ -27,10 +29,10 @@
 
 ```diff
 + Sachin Singh
-+ MERN Stack Developer
-+ Competitive Programmer
++ Full Stack MERN Developer
++ Competitive Programmer (LeetCode)
 + Backend & System Design Focused
-+ Building production-level web applications
++ Passionate about building scalable production apps
 ```
 
 ---
@@ -43,7 +45,7 @@
 
 ---
 
-## 🧬 GITHUB TROPHIES
+## 🏆 DEVELOPER TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sachiinn05&theme=algolia&no-frame=true&row=1&column=7"/>
@@ -51,16 +53,20 @@
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GITHUB PERFORMANCE
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
+
 ---
 
-## 🧊 3D CONTRIBUTION HEATMAP
+## 🧊 3D CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinn05&theme=tokyo-night"/>
@@ -68,7 +74,7 @@
 
 ---
 
-## 🐍 SNAKE CONTRIBUTION GRAPH
+## 🐍 CONTRIBUTION SNAKE (ANIMATED)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -79,12 +85,12 @@
 ## 🧠 LEETCODE LIVE STATS
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sachinsingh17?theme=dark&font=Baloo"/>
+  <img src="https://leetcard.jacoblin.cool/sachinsingh17?theme=dark&ext=heatmap"/>
 </p>
 
 ---
 
-## 📈 DEV ACTIVITY GRAPH
+## 📈 DEV ACTIVITY & SUMMARY
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachiinn05&theme=tokyonight"/>
@@ -96,18 +102,34 @@
 
 ### 🔥 ByteFlame — Full Stack Dating App
 - MERN Stack, Socket.io, AWS  
-- JWT Auth, Real-time Chat, Cloudflare  
-- Live Production App  
+- JWT Auth, Real-time Chat  
+- Production deployment  
 
 ### 💬 ChatterUp — Real-time Chat App
 - Node.js, Express, MongoDB  
 - Multi-user messaging  
-- Optimized database queries  
+- Persistent chat storage  
 
 ### 🧑‍💼 Job Portal Platform
-- Role-based access  
-- Authentication + Email workflows  
-- Recruiter & candidate dashboards  
+- Role-based authentication  
+- Email workflow automation  
+- Recruiter dashboard  
+
+---
+
+## 🌍 VISITOR COUNTER
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sachiinn05/count.svg"/>
+</p>
+
+---
+
+## 💡 DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -130,18 +152,10 @@
 
 ---
 
-## 💡 DEV QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
   ⭐ Star repositories • 🤝 Collaborate • 🚀 Build together
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:2c5364,100:0f2027&height=130&section=footer"/>
 </p>
