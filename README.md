@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=4&section=header"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,9 @@
  |_____/|_| |_|\_____|_|  |_|_____|_| \_|     |_____/ /_/ \_\
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+booting+dev_profile.exe...;%3E+loading+skills.json+%5BOK%5D;%3E+status%3A+OPEN_TO_WORK;%3E+ready+for+deployment+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=750&lines=%3E+booting+dev_profile.exe...;%3E+loading+skills.json+%5BOK%5D;%3E+compiling+experience.bin+%5BOK%5D;%3E+status%3A+OPEN_TO_WORK;%3E+ready+for+deployment+🚀"/>
+
+<img src="https://komarev.com/ghpvc/?username=sachiinn05&label=PROFILE+HITS&color=39FF14&style=flat-square&labelColor=000000"/>
 
 </div>
 
@@ -29,7 +31,6 @@
   FOCUS     : Backend Engineering · System Design
   ARENA     : Competitive Programming (LeetCode)
   STATUS    : [ONLINE] Open to Full-Time SWE / Backend / MERN roles
-  UPTIME    : building since day 1, still compiling dreams
 
 ┌─[sachin@devbox]─[~]
 └──╼ $ ./contact.sh --list
@@ -49,9 +50,7 @@
   <a href="https://drive.google.com/file/d/1PfrNxzuZ6-rQxsbyUL854MUCN7sMRnhE/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=4&section=header"/></div>
 
 ## `$` cat skills.json
 
@@ -60,20 +59,20 @@
 
 **Languages**
 ```
-C            ██████████ 
-C++          █████████░
-JavaScript   ██████████
-TypeScript   ████████░░
+C            ██████████ 100%
+C++          █████████░  90%
+JavaScript   ██████████ 100%
+TypeScript   ████████░░  80%
 ```
 
 </td><td width="50%" valign="top">
 
 **Frontend**
 ```
-React        ██████████
-Next.js      ████████░░
-Tailwind     █████████░
-Bootstrap    ████████░░
+React        ██████████ 100%
+Next.js      ████████░░  80%
+Tailwind CSS █████████░  90%
+Bootstrap    ████████░░  80%
 ```
 
 </td></tr>
@@ -81,49 +80,45 @@ Bootstrap    ████████░░
 
 **Backend**
 ```
-Node.js      ██████████
-Express.js   ██████████
-MongoDB      █████████░
+Node.js      ██████████ 100%
+Express.js   ██████████ 100%
+MongoDB      █████████░  90%
 ```
 
 </td><td width="50%" valign="top">
 
 **Cloud & Tools**
 ```
-AWS          ████████░░
-Git/GitHub   ██████████
-Postman      █████████░
-VS Code      ██████████
+AWS          ████████░░  80%
+Git / GitHub ██████████ 100%
+Postman      █████████░  90%
+VS Code      ██████████ 100%
 ```
 
 </td></tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=4&section=header"/></div>
 
 ## `$` tail -f project_log.txt
 
 ```diff
 + [ByteFlame] Full-stack dating app
-    stack   : MERN · Socket.io · AWS
-    feature : real-time chat, JWT auth, live production deploy
+    stack    : MERN · Socket.io · AWS
+    feature  : real-time chat, JWT auth, live production deploy
 
 + [ChatterUp] Real-time chat application
-    stack   : Node.js · Express · MongoDB
-    feature : multi-user messaging, persistent chat history
+    stack    : Node.js · Express · MongoDB
+    feature  : multi-user messaging, persistent chat history
 
 + [Job-Portal] Recruitment platform
-    stack   : MERN
-    feature : role-based auth, recruiter dashboard, email automation
+    stack    : MERN
+    feature  : role-based auth, recruiter dashboard, email automation
 ```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=4&section=header"/></div>
 
-## `$` fetch --stats
+## `$` fetch --stats --verbose
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
@@ -131,7 +126,7 @@ VS Code      ██████████
 </p>
 
 <p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=sachiinn05&theme=algolia&no-frame=true&margin-w=8&column=4"/>
+  <img src="https://github-readme-trophies.vercel.app/?username=sachiinn05&theme=onedark&no-frame=true&margin-w=8&column=4"/>
 </p>
 
 <p align="center">
@@ -146,11 +141,9 @@ VS Code      ██████████
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=4&section=header"/></div>
 
-## `$` ./connect.sh
+## `$` ./connect.sh --all
 
 <p align="center">
   <a href="https://github.com/sachiinn05"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
@@ -172,5 +165,5 @@ VS Code      ██████████
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=3&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=4&section=footer"/>
 </div>
