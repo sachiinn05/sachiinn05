@@ -1,165 +1,176 @@
 <div align="center">
-
-```
-   _____ ___   _____ _    _ _____ _   _
-  / ____/ _ \ / ____| |  | |_   _| \ | |
- | (___| |_| | |    | |__| | | | |  \| |
-  \___ \  _  | |    |  __  | | | | . ` |
-  ____) | | | | |____| |  | |_| |_| |\  |
- |_____/|_| |_|\_____|_|  |_|_____|_| \_|
-
-        S I N G H   //   SYSTEM ONLINE
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
 </div>
 
 <div align="center">
 
+```
+   _____ ___   _____ _    _ _____ _   _         _____ __   __
+  / ____/ _ \ / ____| |  | |_   _| \ | |       / ____|\ \ / /
+ | (___| |_| | |    | |__| | | | |  \| |______| (___   \ V /
+  \___ \  _  | |    |  __  | | | | . ` |______|\___ \   > <
+  ____) | | | | |____| |  | |_| |_| |\  |      ____) | / . \
+ |_____/|_| |_|\_____|_|  |_|_____|_| \_|     |_____/ /_/ \_\
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+booting+dev_profile.exe...;%3E+loading+skills.json+%5BOK%5D;%3E+status%3A+OPEN_TO_WORK;%3E+ready+for+deployment+🚀"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ```bash
-sachin@dev:~$ whoami
-> Full Stack Developer (MERN) | Backend Engineer | Competitive Programmer
+┌─[sachin@devbox]─[~]
+└──╼ $ ./init.sh --profile
 
-sachin@dev:~$ status --current
-> [OPEN TO WORK] Full-Time Software Engineer / Backend / MERN roles
+  ROLE      : Full Stack Developer (MERN)
+  FOCUS     : Backend Engineering · System Design
+  ARENA     : Competitive Programming (LeetCode)
+  STATUS    : [ONLINE] Open to Full-Time SWE / Backend / MERN roles
+  UPTIME    : building since day 1, still compiling dreams
 
-sachin@dev:~$ contact --list
-> email    : singhsachin0517@gmail.com
-> linkedin : /in/sachin-singh-491252252
-> leetcode : /u/sachinsingh17
-> resume   : drive.google.com/1PfrNxzuZ6-rQxsbyUL854MUCN7sMRnhE
+┌─[sachin@devbox]─[~]
+└──╼ $ ./contact.sh --list
+
+  ✉  singhsachin0517@gmail.com
+  in /in/sachin-singh-491252252
+  {} /u/sachinsingh17
+  📄 drive.google.com/1PfrNxzuZ6-rQxsbyUL854MUCN7sMRnhE
 ```
 
 </div>
 
 <p align="center">
-  <a href="mailto:singhsachin0517@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sachin-singh-491252252/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/sachinsingh17/"><img src="https://img.shields.io/badge/-LEETCODE-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1PfrNxzuZ6-rQxsbyUL854MUCN7sMRnhE/view?usp=sharing"><img src="https://img.shields.io/badge/-RESUME-000000?style=flat-square&logo=googledrive&logoColor=white"/></a>
+  <a href="mailto:singhsachin0517@gmail.com"><img src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/sachin-singh-491252252/"><img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/sachinsingh17/"><img src="https://img.shields.io/badge/LEETCODE-39FF14?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/1PfrNxzuZ6-rQxsbyUL854MUCN7sMRnhE/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/></a>
 </p>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
+</div>
 
-## ► process.env
-
-```json
-{
-  "role": "Full Stack Developer",
-  "stack": "MERN",
-  "specialty": "Backend Engineering & System Design",
-  "hobby": "Competitive Programming",
-  "current_focus": "Scalable, production-grade systems",
-  "availability": "Full-time"
-}
-```
-
-<br>
-
-## ► stack --installed
+## `$` cat skills.json
 
 <table>
-<tr>
-<td valign="top" width="25%">
+<tr><td width="50%" valign="top">
 
 **Languages**
 ```
-C
-C++
-JavaScript
-TypeScript
+C            ██████████ 
+C++          █████████░
+JavaScript   ██████████
+TypeScript   ████████░░
 ```
 
-</td>
-<td valign="top" width="25%">
+</td><td width="50%" valign="top">
 
 **Frontend**
 ```
-React
-Next.js
-Tailwind CSS
-Bootstrap
+React        ██████████
+Next.js      ████████░░
+Tailwind     █████████░
+Bootstrap    ████████░░
 ```
 
-</td>
-<td valign="top" width="25%">
+</td></tr>
+<tr><td width="50%" valign="top">
 
 **Backend**
 ```
-Node.js
-Express.js
-MongoDB
+Node.js      ██████████
+Express.js   ██████████
+MongoDB      █████████░
 ```
 
-</td>
-<td valign="top" width="25%">
+</td><td width="50%" valign="top">
 
-**Tools / Cloud**
+**Cloud & Tools**
 ```
-AWS
-Git & GitHub
-Postman
-VS Code
+AWS          ████████░░
+Git/GitHub   ██████████
+Postman      █████████░
+VS Code      ██████████
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
+</div>
 
-## ► git log --projects
+## `$` tail -f project_log.txt
 
+```diff
++ [ByteFlame] Full-stack dating app
+    stack   : MERN · Socket.io · AWS
+    feature : real-time chat, JWT auth, live production deploy
+
++ [ChatterUp] Real-time chat application
+    stack   : Node.js · Express · MongoDB
+    feature : multi-user messaging, persistent chat history
+
++ [Job-Portal] Recruitment platform
+    stack   : MERN
+    feature : role-based auth, recruiter dashboard, email automation
 ```
-commit ByteFlame
-Author: Sachin Singh
-       Full-stack dating app · MERN + Socket.io + AWS
-       > Real-time chat, JWT auth, deployed to production
 
-commit ChatterUp
-Author: Sachin Singh
-       Real-time chat application · Node.js + Express + MongoDB
-       > Multi-user messaging with persistent storage
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
+</div>
 
-commit Job-Portal-Platform
-Author: Sachin Singh
-       Recruitment platform · MERN stack
-       > Role-based auth, recruiter dashboard, email automation
-```
-
-<br>
-
-## ► analytics --render
+## `$` fetch --stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=github-dark-blue&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=green-dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinn05&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-trophies.vercel.app/?username=sachiinn05&theme=algolia&no-frame=true&margin-w=8&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinn05&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sachinsingh17?theme=dark&ext=contest"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-## ► connect --socials
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=3&section=header"/>
+</div>
+
+## `$` ./connect.sh
 
 <p align="center">
-  <a href="https://github.com/sachiinn05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sachin-singh-491252252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/sachinsingh17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/sachiinn05"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+  <a href="https://www.linkedin.com/in/sachin-singh-491252252/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+  <a href="https://leetcode.com/u/sachinsingh17/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14"/></a>
 </p>
 
 <div align="center">
 
 ```bash
-sachin@dev:~$ echo "Thanks for stopping by — let's build something."
-> Thanks for stopping by — let's build something.
+┌─[sachin@devbox]─[~]
+└──╼ $ echo "thanks for visiting — let's ship something great."
+> thanks for visiting — let's ship something great.
 
-sachin@dev:~$ _
+┌─[sachin@devbox]─[~]
+└──╼ $ ▮
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=3&section=footer"/>
 </div>
