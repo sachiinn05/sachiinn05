@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Sachin%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=58&descSize=18"/>
 
-<h1 align="center">SACHIN SINGH</h1>
-<h3 align="center">Full Stack Developer · Backend Engineer · Competitive Programmer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;Backend+%26+System+Design+focused;Open+to+Full-Time+Opportunities+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+applications;Backend+%26+System+Design+focused;Open+to+Full-Time+Opportunities"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sachiinn05&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sachiinn05?style=for-the-badge&color=4A00E0&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/sachiinn05?style=for-the-badge&color=8E2DE2&label=STARS"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
 
-### 👋 About
+### 👋 About Me
 
 I build full-stack applications with a strong lean toward backend architecture and system design. My day-to-day lives at the intersection of clean API design, database modeling, and shipping things that actually hold up in production — with competitive programming keeping my problem-solving sharp on the side.
 
@@ -47,7 +50,13 @@ I build full-stack applications with a strong lean toward backend architecture a
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
+
+<div align="center">
+
+### 🧰 Tech Stack
+
+</div>
 
 <table width="100%">
 <tr>
@@ -82,9 +91,13 @@ I build full-stack applications with a strong lean toward backend architecture a
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 
-## 🚀 Featured Work
+<div align="center">
+
+### 🚀 Featured Work
+
+</div>
 
 <table width="100%">
 <tr>
@@ -115,26 +128,32 @@ Recruitment platform with role-based access and automated recruiter email workfl
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
 
 <div align="center">
 
-## 📊 GitHub Overview
+### 📊 GitHub Overview
 
 <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=8E2DE2&icon_color=4A00E0" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=8E2DE2" width="38%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=4A00E0" width="60%"/>
 
+<img src="https://github-readme-trophies.vercel.app/?username=sachiinn05&theme=radical&no-frame=true&margin-w=8&column=4"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinn05&theme=react-dark&hide_border=true&bg_color=00000000&color=8E2DE2&line=4A00E0&point=ffffff" width="90%"/>
+
+<img src="https://leetcard.jacoblin.cool/sachinsingh17?theme=dark&ext=contest" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 
 <div align="center">
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 
 <a href="https://github.com/sachiinn05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sachin-singh-491252252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -146,4 +165,4 @@ Recruitment platform with role-based access and automated recruiter email workfl
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer"/>
