@@ -60,36 +60,77 @@ I build full-stack applications with a strong lean toward backend architecture a
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Languages**
 <br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Frontend**
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
 
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
 **Backend**
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br>
+<img src="https://img.shields.io/badge/REST%20APIs-4A00E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.io-8E2DE2?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-4A00E0?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodemailer-8E2DE2?style=for-the-badge"/>
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-**Cloud & Tools**
+**Databases**
 <br><br>
-<img src="https://skillicons.dev/icons?i=aws,git,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<br>
+<img src="https://img.shields.io/badge/Mongoose%20ODM-4A00E0?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Cloud, DevOps & Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,git,github,vscode,postman" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**AI, Auth & APIs**
+<br><br>
+<img src="https://skillicons.dev/icons?i=firebase" />
+<br>
+<img src="https://img.shields.io/badge/TMDB%20API-4A00E0?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E2DE2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Core Concepts**
+<br><br>
+<img src="https://img.shields.io/badge/DSA-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOPs-4A00E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-4A00E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile%20Development-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Session%20Management-4A00E0?style=flat-square"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 
