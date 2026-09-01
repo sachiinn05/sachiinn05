@@ -53,30 +53,30 @@ I build full-stack applications with a strong lean toward backend architecture a
 <tr>
 <td width="25%" align="center" valign="top">
 
-### 🧠
 **Languages**
-<br><sub>C · C++ · JavaScript · TypeScript</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🎨
 **Frontend**
-<br><sub>React · Next.js · Tailwind · Bootstrap</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### ⚙️
 **Backend**
-<br><sub>Node.js · Express · MongoDB</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### ☁️
 **Cloud & Tools**
-<br><sub>AWS · Git · Postman · VS Code</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,git,postman,vscode" />
 
 </td>
 </tr>
